@@ -3,10 +3,10 @@
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
+    <!-- <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'> -->
+    <link rel="stylesheet" type="text/css" href="styles/stylesheet.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="styles/pygment_trac.css" media="screen" />
+    <link rel="stylesheet" type="text/css" href="styles/print.css" media="print" />
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
@@ -18,29 +18,47 @@
       <div class="inner">
 
         <header>
-          <h1>davidstevens.us</h1>
-          <h2>I used to follow rules, now I follow Jesus</h2>
+        	<h2>Always Making, Always Growing</h2>
         </header>
         
         <section id="main_content">
-          <p>Hello, v1</p>
-        </section>
+         	<p>Hey there! I'm a developer and database nerd who loves Jesus, loves code, and loves music.</p>
 
+          	<p>Most days I can be found writing applications and digging through databases for statistics.  I love my job and the people I get to work with are awesome!</p>
+
+			<p>When I'm not writing code, I'm outside kayaking, hiking, or cycling around beautiful <a href="http://lifeingreenville.com">Greenville, SC</a>.</p>
+			
+        </section>
+        
+		<div id="gitstatus_27902">some data</div>
+        
+		
         <footer>
-          <a href="https://github.com/dcs619" id="view-on-github" class="button"><span>View on GitHub</span></a>
+        	<a href="https://github.com/dcs619" id="view-on-github" class="button"><span>GitHub</span></a>
         </footer>
 
-          <script type="text/javascript">
-            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-          </script>
-          <script type="text/javascript">
-            try {
-              var pageTracker = _gat._getTracker("30518644");
-            pageTracker._trackPageview();
-            } catch(err) {}
-          </script>
+		<script type="text/javascript">
+			document.write(unescape("%3Cscript src='http://www.google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));	
+		</script>
 
+		<script type="text/javascript">
+			try {
+				var pageTracker = _gat._getTracker("30518644");
+				pageTracker._trackPageview();
+			} catch(err) {}
+		</script>
+
+		<script type="text/javascript" src="js/gitstatus.js" />
+		
+		<script type="text/javascript">
+			new GitStatus({
+			    id: "gitstatus_27902",
+			    github_username: "dcs619",
+			    github_repository: "dcs619.github.io",
+			    no_of_commits: 10,
+			    //disable_all_styles: true
+			}).show();
+		</script>
       </div>
     </div>
   </body>
