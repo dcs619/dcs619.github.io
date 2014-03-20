@@ -48,7 +48,7 @@ table {
 
 /* LAYOUT STYLES */
 body {
-  font-size: 1em;
+  font-size: 1.1em;
   line-height: 1.5; 
   background: #e7e7e7 url(../images/body-bg.png) 0 0 repeat;
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
@@ -65,15 +65,16 @@ a:hover {
 
 header {
   padding-top: 35px;
-  padding-bottom: 25px;
+  padding-bottom: 35px;
 }
 
 header h1 {
   font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif; font-weight: 900;
-  letter-spacing: -1px;
+  letter-spacing: 2px;
   font-size: 48px;
   color: #303030;
-  line-height: 1.2;
+  line-height: 1.2; 
+  text-align: center;
 }
 
 header h2 {
@@ -87,19 +88,26 @@ header h2 {
 #container {
   background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;
   min-height: 595px;
+  min-
 }
 
 .inner {
   width: 620px;
+  min-height: 620px;
   margin: 0 auto;
+}
+
+.image {
+  float: left;
+  margin-right: 20px;
+  border-radius: 30px;  
+  border:5px solid #;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;  
 }
 
 #container .inner img {
   max-width: 100%;
-}
-
-#downloads {
-  margin-bottom: 40px;
 }
 
 a.button {
@@ -151,20 +159,6 @@ a.button span {
   display: block;
   height: 23px;
 }
-
-#download-zip span {
-  background: transparent url(../images/zip-icon.png) 12px 50% no-repeat;
-}
-#download-tar-gz span {
-  background: transparent url(../images/tar-gz-icon.png) 12px 50% no-repeat;
-}
-#view-on-github span {
-  background: transparent url(../images/octocat-icon.png) 12px 50% no-repeat;
-}
-#view-on-github {
-  margin-right: 0;
-}
-
 code, pre {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal;
   color: #222;
@@ -194,6 +188,56 @@ pre code {
 
 ul, ol, dl {
   margin-bottom: 20px;
+}
+
+#container .inner .icons a
+{
+  display: inline-block;
+  height: 32px;
+  width: 32px;
+  background-size: 32px 32px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  margin: 0 8px;
+   border-radius: 10px;  
+  border:5px solid #;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;  
+}
+
+#twitter {
+  background-color: #00aced;
+  background-image:url(../images/icons/twitter-32.png);
+}
+
+#instagram {
+  background-color: #3f729b;
+  background-image:url(../images/icons/instagram-32.png);    
+}
+
+#github {
+  background-color: #4183c4;
+  background-image:url(../images/icons/github-32.png);   
+}
+
+#rdio {
+  background-color: #006ed2;
+  background-image:url(../images/icons/rdio-32.png);    
+}
+
+#lastfm {
+  background-color: #d51007;
+  background-image:url(../images/icons/lastfm-32.png);   
+}
+
+#msdn {
+  background-color: #68217a;
+  background-image:url(../images/icons/visualstudio-32.png);   
+}
+
+#email {
+  background-color: #8cc63f;
+  background-image:url(../images/icons/email-32.png);   
 }
 
 
