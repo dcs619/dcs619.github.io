@@ -194,7 +194,7 @@ ul, ol, dl {
 .icons
 {
   text-align:center;
-  margin: auto;
+  margin-top: 40px;
 }
 
 #container .inner .icons a
