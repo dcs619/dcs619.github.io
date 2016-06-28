@@ -87,19 +87,19 @@ header h2 {
 
 #container {
   background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;
-  min-height: 595px;
+  min-height: 650px;
   min-
 }
 
 .inner {
   width: 75%;
-  max-width: 620px;
-  min-height: 620px;
+  max-width: 800px;
+  min-height: 650px;
   margin: 0 auto;
 }
 
 .image {
-  float: left;
+  float: left;  
   margin-right: 20px;
   border-radius: 30px;  
   border:5px solid #;
@@ -108,7 +108,7 @@ header h2 {
 }
 
 #container .inner img {
-  max-width: 100%;
+  max-width: 45%;
 }
 
 a.button {
@@ -199,13 +199,13 @@ ul, ol, dl {
 
 #container .inner .icons a
 {
-  display: inline-block;
+  display: inline-block;  
   height: 32px;
   width: 32px;
   background-size: 32px 32px;
   background-position: center center;
   background-repeat: no-repeat;
-  margin: 0 8px;
+  margin: 0 6px;
   border-radius: 10px;  
   border: 10px solid #;
   -webkit-border-radius: 10px;
@@ -227,9 +227,9 @@ ul, ol, dl {
   background-image:url(../images/icons/github-32.png);   
 }
 
-#rdio {
-  background-color: #006ed2;
-  background-image:url(../images/icons/rdio-32.png);    
+#spotify {
+  background-color: #8CC141;
+  background-image:url(../images/icons/spotify-32.png);    
 }
 
 #lastfm {
@@ -243,7 +243,7 @@ ul, ol, dl {
 }
 
 #email {
-  background-color: #8cc63f;
+  background-color: red;
   background-image:url(../images/icons/email-32.png);   
 }
 
