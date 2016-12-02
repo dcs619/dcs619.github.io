@@ -227,6 +227,11 @@ ul, ol, dl {
   background-image:url(../images/icons/github-32.png);   
 }
 
+#linkedin {
+  background-color: #006fa6;
+  background-image:url(../images/icons/linkedin-32.png);   
+}
+
 #spotify {
   background-color: #8CC141;
   background-image:url(../images/icons/spotify-32.png);    
