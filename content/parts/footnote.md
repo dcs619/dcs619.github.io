@@ -3,7 +3,11 @@ title: footnote
 ---
 
 
-* deliverd by [github](https://github.com/)
-* photos by [unsplash](https://unsplash.com)
-* graphic by [pixabay](https://pixabay.com)
-* built by [gatsby](https://gatsby.com)
+* [github](https://github.com/dcs619)
+* [twitter](https://github.com/davidcstevens_)
+* [spotify](http://open.spotify.com/user/dcs619)
+* [linkedin](https://linkedin.com/in/davidclarkestevens)
+* [contact](/contact)
+
+<!-- * [unsplash](https://unsplash.com)
+* [pixabay](https://pixabay.com) -->
