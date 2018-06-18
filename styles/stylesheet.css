@@ -18,7 +18,7 @@ time, mark, audio, video {
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 100%;
+    font-size: 1.2em;
 	font: inherit;
 	vertical-align: baseline;
 }
@@ -48,7 +48,6 @@ table {
 
 /* LAYOUT STYLES */
 body {
-  font-size: 1.1em;
   line-height: 1.5; 
   background: #e7e7e7 url(../images/body-bg.png) 0 0 repeat;
   font-family: 'Montserrat','Helvetica Neue', Helvetica, Arial, serif;
