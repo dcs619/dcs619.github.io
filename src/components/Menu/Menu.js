@@ -15,9 +15,15 @@ class Menu extends React.Component {
     super(props);
     this.itemList = React.createRef();
 
+    const icons = {
+      home: FaHome,
+      envelope: FaEnvelope
+    };
+
     const pages = props.pages.map(page => ({
       to: page.node.fields.slug,
-      label: page.node.frontmatter.title
+      label: page.node.frontmatter.title,
+      icon: icons[page.node.frontmatter.icon]
     }));
 
     this.items = [
