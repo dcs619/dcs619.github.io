@@ -2,8 +2,6 @@
 title: Projects
 ---
 
-# Projects
-
 ## Open Source
 
 [Rock](https://github.com/SparkDevNetwork/Rock)
