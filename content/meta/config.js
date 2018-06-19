@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: "https://davidstevens.us", // <title>
   shortSiteTitle: "https://davidstevens.us", // <title> ending for posts and pages
-  siteDescription: "inward violence, outward love",
+  siteDescription: "converted introvert. the best is yet to come.",
   siteUrl: "https://davidstevens.us",
   pathPrefix: "",
   siteImage: "preview.jpg",
@@ -11,7 +11,7 @@ module.exports = {
   authorTwitterAccount: "davidcstevens_",
   // info
   headerTitle: "david stevens",
-  headerSubTitle: "inward violence, outward love",
+  headerSubTitle: "without struggle there is no progress",
   // manifest.json
   manifestName: "David Stevens",
   manifestShortName: "davidstevens", // max 12 characters

@@ -11,7 +11,7 @@ const Hero = props => {
       <section className="hero">
         <h1>
           Hey there! <br />You've reached a work in progress...
-        </h1>
+        </h1><br />
         <button onClick={scrollToContent} aria-label="scroll">
           <FaArrowDown />
         </button>

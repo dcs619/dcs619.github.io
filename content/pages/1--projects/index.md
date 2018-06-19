@@ -1,6 +1,6 @@
 ---
 title: Projects
-icon: home
+icon: list
 ---
 
 ## Open Source
