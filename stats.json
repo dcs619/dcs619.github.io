@@ -1,24 +1,20 @@
 {
   "assetsByChunkName": {
-    "path---category-testimonies": [
-      "path---category-testimonies-f13a8eea4fdf4dad1351.js",
-      "path---category-testimonies-f13a8eea4fdf4dad1351.js.map"
-    ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-b3b599e9641af6f55421.js",
-      "component---src-pages-index-js-b3b599e9641af6f55421.js.map"
+      "component---src-pages-index-js-c1f6fa7a9c345fc4d9fa.js",
+      "component---src-pages-index-js-c1f6fa7a9c345fc4d9fa.js.map"
     ],
     "path---": [
-      "path----e472e4fa16f92d4f8a6a.js",
-      "path----e472e4fa16f92d4f8a6a.js.map"
+      "path----83150db5a21b65255409.js",
+      "path----83150db5a21b65255409.js.map"
     ],
     "component---src-pages-contact-js": [
       "component---src-pages-contact-js-c829da588f1c458802d5.js",
       "component---src-pages-contact-js-c829da588f1c458802d5.js.map"
     ],
     "path---like-nonsense": [
-      "path---like-nonsense-ba49fce903763aa6b449.js",
-      "path---like-nonsense-ba49fce903763aa6b449.js.map"
+      "path---like-nonsense-70a9fddd8c851765d149.js",
+      "path---like-nonsense-70a9fddd8c851765d149.js.map"
     ],
     "component---src-templates-category-template-js": [
       "component---src-templates-category-template-js-ccbdb357ea067077af6d.js",
@@ -33,20 +29,20 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-d2293f5b2e030635fff1.js",
-      "component---src-layouts-index-js-d2293f5b2e030635fff1.js.map"
+      "component---src-layouts-index-js-8e4b0786ad850c84b8cd.js",
+      "component---src-layouts-index-js-8e4b0786ad850c84b8cd.js.map"
     ],
     "path---category": [
-      "path---category-f6111df46c409871b1ae.js",
-      "path---category-f6111df46c409871b1ae.js.map"
+      "path---category-1b48d0ee9d00392c917b.js",
+      "path---category-1b48d0ee9d00392c917b.js.map"
     ],
     "component---src-pages-category-js": [
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js",
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js.map"
     ],
     "path---index": [
-      "path---index-3bf962cf722202bd443a.js",
-      "path---index-3bf962cf722202bd443a.js.map"
+      "path---index-7146b0e56b7bd26d5527.js",
+      "path---index-7146b0e56b7bd26d5527.js.map"
     ],
     "component---src-pages-search-js": [
       "component---src-pages-search-js-adc49fae302ed7b1632f.js",
@@ -57,9 +53,9 @@
       "component---src-pages-404-js-cf325d2e9bf981eec2f6.js.map"
     ],
     "commons": [
-      "commons-a4971f52b9f4a3717664.js",
+      "commons-36cf70399f435d25d932.js",
       "build-js-styles.css",
-      "commons-a4971f52b9f4a3717664.js.map",
+      "commons-36cf70399f435d25d932.js.map",
       "build-js-styles.css.map"
     ],
     "path---success": [
@@ -70,13 +66,17 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---category-lorem-ipsum": [
+      "path---category-lorem-ipsum-e65500574f9df59c7e15.js",
+      "path---category-lorem-ipsum-e65500574f9df59c7e15.js.map"
+    ],
     "path---contact": [
       "path---contact-206ac74de0d3aab26f03.js",
       "path---contact-206ac74de0d3aab26f03.js.map"
     ],
     "path---draft-post": [
-      "path---draft-post-636e00764c5045bba926.js",
-      "path---draft-post-636e00764c5045bba926.js.map"
+      "path---draft-post-cb43a39b6c6e1386e572.js",
+      "path---draft-post-cb43a39b6c6e1386e572.js.map"
     ],
     "component---src-templates-post-template-js": [
       "component---src-templates-post-template-js-3af786323a7482bb90fd.js",
@@ -87,9 +87,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-0e37a1a93de02d49533e.js",
+      "app-996677283b010dc4d740.js",
       "build-js-styles.css",
-      "app-0e37a1a93de02d49533e.js.map",
+      "app-996677283b010dc4d740.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
@@ -109,8 +109,8 @@
       "path---category-sayings-b931c398ebdabcbac2e2.js.map"
     ],
     "path---about": [
-      "path---about-c80adea7e7c1f83e5ac3.js",
-      "path---about-c80adea7e7c1f83e5ac3.js.map"
+      "path---about-24d61ca268a244e870d8.js",
+      "path---about-24d61ca268a244e870d8.js.map"
     ]
   }
 }

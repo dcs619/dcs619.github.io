@@ -1,0 +1,2 @@
+webpackJsonp([0xa571079fb13c],{701:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/like-nonsense/"},excerpt:"Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…",timeToRead:1,frontmatter:{title:"I like nonsense, it wakes up the brain cells",category:"lorem ipsum"}}}]},site:{siteMetadata:{facebook:{appId:""}}}},pathContext:{category:"lorem ipsum"}}}});
+//# sourceMappingURL=path---category-lorem-ipsum-e65500574f9df59c7e15.js.map
