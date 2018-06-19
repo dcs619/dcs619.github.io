@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hero-blog",
-  "version": "1.0.1",
-  "author": "Greg Lobinski <greglobinski@gmail.com>",
+  "name": "davidstevens.us",
+  "version": "1.0.0",
+  "author": "David Stevens <dcs619+hello@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "antd": "^3.5.2",
