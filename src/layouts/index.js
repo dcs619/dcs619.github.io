@@ -169,6 +169,7 @@ export const postQuery = graphql`
           }
           frontmatter {
             title
+            icon
           }
         }
       }

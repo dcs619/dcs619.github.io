@@ -1,5 +1,6 @@
 ---
 title: About
+icon: envelope
 ---
 
 Hey there! I'm a developer and database nerd who loves Jesus, my wife [Karli](http://instagram.com/karlijstevens), code, and music.
