@@ -8,7 +8,7 @@ import Search from "../components/Search";
 import { ThemeContext } from "../layouts";
 import Seo from "../components/Seo";
 
-import AlgoliaIcon from "!svg-react-loader!../images/svg-icons/search-by-algolia.svg?name=AlgoliaLogo";
+import AlgoliaIcon from "!svg-react-loader!../images/svg-icons/algolia-full.svg?name=AlgoliaLogo";
 
 const SearchPage = props => {
   const {
@@ -43,7 +43,7 @@ const SearchPage = props => {
           margin-bottom: 20px;
         }
         .icon :global(svg) {
-          height: 30px;
+          height: 20px;
         }
       `}</style>
     </React.Fragment>
