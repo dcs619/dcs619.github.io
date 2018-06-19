@@ -1,0 +1,2 @@
+webpackJsonp([20455069509796],{702:function(e,t){e.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/like-nonsense/"},excerpt:"Proin suscipit luctus orci placerat fringilla. Donec hendrerit laoreet risus eget adipiscing. Suspendisse in urna ligula, a volutpat mauris…",timeToRead:2,frontmatter:{title:"I like nonsense, it wakes up the brain cells",category:"testimonies"}}}]},site:{siteMetadata:{facebook:{appId:""}}}},pathContext:{category:"testimonies"}}}});
+//# sourceMappingURL=path---category-testimonies-f13a8eea4fdf4dad1351.js.map
