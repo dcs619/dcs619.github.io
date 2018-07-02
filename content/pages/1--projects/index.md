@@ -39,7 +39,7 @@ Tristate Maps is a MeteorJS app to geocode, render, and segment over 150k addres
 
 Microsoft Dynamics
 
-Dynamics is a web-based CRM designed to manage leads and contracts.  I led custom development and conversion of over 30k records from Salesforce, Excel, and a legacy marketing and contact system.
+Dynamics is a web-based CRM for sales, marketing leads, and contracts.  I led custom development and conversion of over 30k records from Salesforce, Excel, and a legacy marketing and contact system.
 
 EMRS
 
