@@ -47,3 +47,8 @@ Dynamics is a web-based CRM designed to manage leads and contracts.  I led custo
 EMRS
 
 EMRS is a Winforms app to automatically monitor, report, and recover health statuses of local machines, servers, or clusters.  EMRS was written in C# using .NET 2.0 with Web Services and MSSQL.
+
+SSTP
+
+SSTP was a sales tax project website with secure logins, Flash-based chatroom, mailing lists, and profiles. Sunset in 2009.
+

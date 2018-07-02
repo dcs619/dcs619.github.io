@@ -11,7 +11,7 @@ Want to connect, chat, or ask a question?  My [DM's](/contact) are always open.
 
 I was a senior web developer for over 5 years at NewSpring Church, who had 35k weekly attendees, 180k+ user profiles, and 19 locations across South Carolina.  I led the transition to and development of Rock RMS as a single source of truth to automate internal processes, revamp their user portal, and build native apps.
 
-Before that, I was a software contractor for law enforcement, network architect for a law firm, and other jobs where I usually tried to take something apart, break it, then get it back working again.
+Before that, I was a software contractor for law enforcement, network analyst for a law firm, and other jobs where I usually tried to take something apart, break it, then get it back working again.
 
 ### My Biography
 
