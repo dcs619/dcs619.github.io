@@ -1,16 +1,16 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-c1f6fa7a9c345fc4d9fa.js",
-      "component---src-pages-index-js-c1f6fa7a9c345fc4d9fa.js.map"
+      "component---src-pages-index-js-77a9434dab2fecbe9a37.js",
+      "component---src-pages-index-js-77a9434dab2fecbe9a37.js.map"
     ],
     "path---": [
       "path----83150db5a21b65255409.js",
       "path----83150db5a21b65255409.js.map"
     ],
     "component---src-pages-contact-js": [
-      "component---src-pages-contact-js-c829da588f1c458802d5.js",
-      "component---src-pages-contact-js-c829da588f1c458802d5.js.map"
+      "component---src-pages-contact-js-26ce76a85f7559451316.js",
+      "component---src-pages-contact-js-26ce76a85f7559451316.js.map"
     ],
     "path---like-nonsense": [
       "path---like-nonsense-6d2fcf0271c316c31d79.js",
@@ -21,8 +21,8 @@
       "component---src-templates-category-template-js-ccbdb357ea067077af6d.js.map"
     ],
     "path---projects": [
-      "path---projects-040d88d75958926e4f02.js",
-      "path---projects-040d88d75958926e4f02.js.map"
+      "path---projects-640e823d7a113ee612dd.js",
+      "path---projects-640e823d7a113ee612dd.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -53,14 +53,14 @@
       "component---src-pages-404-js-cf325d2e9bf981eec2f6.js.map"
     ],
     "commons": [
-      "commons-36cf70399f435d25d932.js",
+      "commons-7720f9b1feb241ff56a5.js",
       "build-js-styles.css",
-      "commons-36cf70399f435d25d932.js.map",
+      "commons-7720f9b1feb241ff56a5.js.map",
       "build-js-styles.css.map"
     ],
     "path---success": [
-      "path---success-14e6ac8a07ea65d2f52c.js",
-      "path---success-14e6ac8a07ea65d2f52c.js.map"
+      "path---success-545cbae99f5af25999b1.js",
+      "path---success-545cbae99f5af25999b1.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
@@ -109,8 +109,8 @@
       "path---category-sayings-b931c398ebdabcbac2e2.js.map"
     ],
     "path---about": [
-      "path---about-24d61ca268a244e870d8.js",
-      "path---about-24d61ca268a244e870d8.js.map"
+      "path---about-812b910a43d34eb4a7e7.js",
+      "path---about-812b910a43d34eb4a7e7.js.map"
     ]
   }
 }
