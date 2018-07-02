@@ -15,7 +15,8 @@ space :
     xs: 5px
     s: 10px
     m: 20px
-    l: 40px`
+    l: 40px
+    xl: 80px
   stack:
     default : 0 0 20px 0
     xxs: 0 0 2px 0
@@ -23,6 +24,7 @@ space :
     s: 0 0 10px 0
     m: 0 0 20px 0
     l: 0 0 40px 0
+    xl: 0 0 80px 0
   inline:
     default : 0 20px 0 0
     xxs: 0 2px 0 0
@@ -30,6 +32,7 @@ space :
     s: 0 10px 0 0
     m: 0 20px 0 0
     l: 0 40px 0 0
+    xl: 0 80px 0 0
 # SIZE
 size:
   radius:

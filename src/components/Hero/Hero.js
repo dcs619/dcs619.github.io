@@ -11,11 +11,10 @@ const Hero = props => {
       <section className="hero">
         <h1>
           Hey there! I'm David.  
-        </h1><br />
+        </h1>
         <h2>
           I'm a husband, father, and converted introvert.
         </h2>
-        <br /><br />
         <button onClick={scrollToContent} aria-label="scroll">
           <FaArrowDown />
         </button>
@@ -41,7 +40,7 @@ const Hero = props => {
         h1 {
           text-align: center;
           font-size: ${theme.hero.h1.size};
-          margin: ${theme.space.stack.l};
+          margin: ${theme.space.stack.xl};
           color: ${theme.hero.h1.color};
           line-height: ${theme.hero.h1.lineHeight};
           text-remove-gap: both 0 "Open Sans";
@@ -65,6 +64,7 @@ const Hero = props => {
 
         h2 {
           text-align: center;
+          margin: ${theme.space.stack.l};
           color: ${theme.hero.h2.color};
           line-height: ${theme.hero.h2.lineHeight};
           text-remove-gap: both 0 "Open Sans";

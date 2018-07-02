@@ -7,7 +7,7 @@ import { ScreenWidthContext, FontLoadedContext } from "../../layouts";
 import config from "../../../content/meta/config";
 import Menu from "../Menu";
 
-// import avatar from "../avatar.jpg";
+import avatar from "../../images/jpg/avatar.jpg";
 
 class Header extends React.Component {
   state = {
@@ -37,9 +37,9 @@ class Header extends React.Component {
       <React.Fragment>
         <header className={`header ${this.getHeaderSize()}`}>
           <Link to="/" className="logoType">
-            {/* <div className="logo">
+            <div className="logo">
               <img src={avatar} alt={config.siteTitle} />
-            </div> */}
+            </div>
             <div className="type">
               <h1>{config.headerTitle}</h1>
               <h2>{config.headerSubTitle}</h2>
@@ -115,7 +115,7 @@ class Header extends React.Component {
             border: 1px solid #eee;
             display: inline-block;
             height: 44px;
-            margin: ${theme.space.inline.default};
+            margin: ${theme.space.inline.s};
             overflow: hidden;
             width: 44px;
             transition: all 0.5s;
@@ -173,6 +173,7 @@ class Header extends React.Component {
               background-color: ${theme.color.neutral.white};
               display: flex;
               position: absolute;
+              padding-left: ${theme.space.l};
               top: 0;
               width: 100%;
               justify-content: space-between;
@@ -216,7 +217,7 @@ class Header extends React.Component {
             }
 
             .logo {
-              margin: ${theme.space.inline.default};
+              margin: ${theme.space.inline.s};
 
               .fixed & {
                 height: 36px;
@@ -226,10 +227,6 @@ class Header extends React.Component {
               .header.homepage:not(.fixed) & {
                 border: none;
               }
-            }
-
-            .type {
-              padding-left: ${theme.space.m};
             }
 
             h2 {
