@@ -10,8 +10,12 @@ const Hero = props => {
     <React.Fragment>
       <section className="hero">
         <h1>
-          Hey there! <br />You've reached a work in progress...
+          Hey there! I'm David.  
         </h1><br />
+        <h2>
+          I'm a husband, father, and converted introvert.
+        </h2>
+        <br /><br />
         <button onClick={scrollToContent} aria-label="scroll">
           <FaArrowDown />
         </button>
@@ -57,6 +61,13 @@ const Hero = props => {
               margin: 0 0 0 ${theme.space.xs};
             }
           }
+        }
+
+        h2 {
+          text-align: center;
+          color: ${theme.hero.h2.color};
+          line-height: ${theme.hero.h2.lineHeight};
+          text-remove-gap: both 0 "Open Sans";
         }
 
         button {

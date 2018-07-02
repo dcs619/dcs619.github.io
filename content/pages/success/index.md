@@ -1,5 +1,5 @@
 ---
-title: Success
+title: Thanks for reaching out! 
 ---
 
-Thanks for reaching out! <br />I'll respond as soon as I can.
+<br />I'll respond as soon as I can.

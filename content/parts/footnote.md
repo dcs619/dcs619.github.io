@@ -2,7 +2,6 @@
 title: footnote
 ---
 
-
 * [github](https://github.com/dcs619)
 * [twitter](https://github.com/davidcstevens_)
 * [spotify](http://open.spotify.com/user/dcs619)

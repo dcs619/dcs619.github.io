@@ -34,7 +34,7 @@ const Contact = props => {
   }
 
   function sendMessage(values) {
-    fetch("/", {
+    fetch("https://formspree.io/hello@davidstevens.us", {
       method: "POST",
       headers: { "Content-Type": "application/x-www-form-urlencoded" },
       body: encode({ "form-name": "contact", ...values })
@@ -58,17 +58,17 @@ const Contact = props => {
       <div className="form">
         <ThemeContext.Consumer>
           {theme => (
-            <Form onSubmit={handleSubmit} data-netlify="true" data-netlify-honeypot="bot-field">
-              <FormItem label="Name">
+            <Form onSubmit={handleSubmit}>
+              <FormItem label="Name" >
                 {getFieldDecorator("name", {
                   rules: [
                     {
                       whitespace: true
                     }
                   ]
-                })(<Input />)}
+                })(<Input name="contactName"/>)}
               </FormItem>
-              <FormItem label="E-mail">
+              <FormItem label="E-mail" >
                 {getFieldDecorator("email", {
                   rules: [
                     {
@@ -78,15 +78,16 @@ const Contact = props => {
                       type: "email"
                     }
                   ]
-                })(<Input />)}
+                })(<Input name="contactEmail"/>)}
               </FormItem>
-              <FormItem label="Message">
+              <FormItem label="Message" >
                 {getFieldDecorator("message", {
                   rules: [
                     { required: true, message: "Please input your message!", whitespace: true }
                   ]
                 })(
                   <TextArea
+                    name="contactMessage"
                     placeholder="Autosize height with minimum and maximum number of lines"
                     autosize={{ minRows: 4, maxRows: 10 }}
                   />
