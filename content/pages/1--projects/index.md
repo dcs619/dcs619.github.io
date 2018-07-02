@@ -9,12 +9,11 @@ Below is a list of significant projects that I've worked on:
 
 [Rock RMS](https://github.com/SparkDevNetwork/Rock)
 
-Rock is an open-source content and relationship management system written in C# and SQL, using .NET 4.6, Entity Framework 6, jQuery, DotLiquid, Bootstrap and REST endpoints.  Plugin interfaces are loaded and consumed with MEF.  Active project since 2012.
+Rock is a content and relationship management system written in C# and SQL, using .NET 4.6, Entity Framework 6, jQuery, DotLiquid, Bootstrap and REST endpoints.  Plugin interfaces are loaded and consumed with MEF.  Active project since 2012.
 
 [Slingshot](https://github.com/SparkDevNetwork/Slingshot)
 
 Slingshot is an API-driven bulk import app for Rock RMS written in C# using .NET 4.6 and Entity Framework.  Active project since 2017.
-
 
 [Attended Checkin](https://github.com/KingdomFirst/rock-attended-checkin)
 
@@ -28,15 +27,13 @@ Excavator is a data import app for Rock RMS written in C# and XAML using .NET 4.
 
 Holtzman is a ReactJS cross-platform app using GraphQL to interface with Mongo, MySQL, and MSSQL databases.  Released to 60k users in 2016; sunset in 2018 in favor of a simpler React Native rebuild.
 
-
 [CyberSource](https://github.com/NewSpring/Rock-Cybersource)
 
 CyberSource is an online payment gateway used by Rock. V1 was released in 2014 and used to process over $1M in event registrations.  V2 was rewritten in 2016 as a fully-PCI compliant client-side plugin and actively being used to process non-profit donations and event registration payments.
 
 Tristate Maps
 
-Maps is a MeteorJS app to geocode, render, and segment over 150k addresses on MapBox tiles using MongoDB.  Sunset in 2014.
-
+Tristate Maps is a MeteorJS app to geocode, render, and segment over 150k addresses on MapBox tiles using MongoDB.  Sunset in 2014.
 
 ## Corporate Source
 
@@ -51,4 +48,3 @@ EMRS is a Winforms app to automatically monitor, report, and recover health stat
 SSTP
 
 SSTP was a sales tax project website with secure logins, Flash-based chatroom, mailing lists, and profiles. Sunset in 2009.
-
