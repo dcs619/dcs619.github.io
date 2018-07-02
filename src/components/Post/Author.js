@@ -10,9 +10,9 @@ const Author = props => {
   return (
     <React.Fragment>
       <div className="author">
-        <div className="avatar">
-          {/* <img src={avatar} alt={config.siteTitle} /> */}
-        </div>
+        {/* <div className="avatar">
+          <img src={avatar} alt={config.siteTitle} />
+        </div> */}
         <div className="note" dangerouslySetInnerHTML={{ __html: note }} />
       </div>
 
@@ -20,7 +20,6 @@ const Author = props => {
       <style jsx>{`
         .author {
           margin: ${theme.space.l} 0;
-          padding: ${theme.space.l} 0;
           border-top: 1px solid ${theme.line.color};
           border-bottom: 1px solid ${theme.line.color};
         }
