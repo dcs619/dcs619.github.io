@@ -1,16 +1,16 @@
 {
   "assetsByChunkName": {
     "path---remote-setup": [
-      "path---remote-setup-f30adaaf8c96707b104d.js",
-      "path---remote-setup-f30adaaf8c96707b104d.js.map"
+      "path---remote-setup-986d36f09a8b4c7b347c.js",
+      "path---remote-setup-986d36f09a8b4c7b347c.js.map"
     ],
     "path---category-remote": [
-      "path---category-remote-51541b199325249de2e6.js",
-      "path---category-remote-51541b199325249de2e6.js.map"
+      "path---category-remote-1e86e60dd9e764d755f1.js",
+      "path---category-remote-1e86e60dd9e764d755f1.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-88f107fc9d43fccb6530.js",
-      "component---src-pages-index-js-88f107fc9d43fccb6530.js.map"
+      "component---src-pages-index-js-7b2dd77ed4b0da57bd7b.js",
+      "component---src-pages-index-js-7b2dd77ed4b0da57bd7b.js.map"
     ],
     "path---": [
       "path----561cef42800c8826c536.js",
@@ -37,20 +37,16 @@
       "component---src-layouts-index-js-3a9a6fe8a9a076d015ca.js.map"
     ],
     "path---category": [
-      "path---category-c0c01e72c520323c39e4.js",
-      "path---category-c0c01e72c520323c39e4.js.map"
+      "path---category-5dd820ff4d2067d2eab3.js",
+      "path---category-5dd820ff4d2067d2eab3.js.map"
     ],
     "component---src-pages-category-js": [
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js",
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js.map"
     ],
-    "path---drafts-remote-routines": [
-      "path---drafts-remote-routines-3098eca3eefea48fece3.js",
-      "path---drafts-remote-routines-3098eca3eefea48fece3.js.map"
-    ],
     "path---index": [
-      "path---index-18cffe5f95392619de33.js",
-      "path---index-18cffe5f95392619de33.js.map"
+      "path---index-4c5d37468b794311c6a8.js",
+      "path---index-4c5d37468b794311c6a8.js.map"
     ],
     "component---src-pages-search-js": [
       "component---src-pages-search-js-adc49fae302ed7b1632f.js",
@@ -61,9 +57,9 @@
       "component---src-pages-404-js-cf325d2e9bf981eec2f6.js.map"
     ],
     "commons": [
-      "commons-7029823cd5feee036067.js",
+      "commons-b3bcd7ee42eb7e5df9c1.js",
       "build-js-styles.css",
-      "commons-7029823cd5feee036067.js.map",
+      "commons-b3bcd7ee42eb7e5df9c1.js.map",
       "build-js-styles.css.map"
     ],
     "path---success": [
@@ -87,13 +83,13 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---remote-life": [
-      "path---remote-life-f4c6c8e3b9143a38cfdc.js",
-      "path---remote-life-f4c6c8e3b9143a38cfdc.js.map"
+      "path---remote-life-5bd85b9b175105b4db82.js",
+      "path---remote-life-5bd85b9b175105b4db82.js.map"
     ],
     "app": [
-      "app-32356fded59f04fb3136.js",
+      "app-5655880b9380287a857c.js",
       "build-js-styles.css",
-      "app-32356fded59f04fb3136.js.map",
+      "app-5655880b9380287a857c.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-templates-page-template-js": [
@@ -109,8 +105,8 @@
       "path---search-73544dbe18c9cb68d283.js.map"
     ],
     "path---about": [
-      "path---about-36c608140390cf1dbe43.js",
-      "path---about-36c608140390cf1dbe43.js.map"
+      "path---about-b11efa24897d45d24e8b.js",
+      "path---about-b11efa24897d45d24e8b.js.map"
     ]
   }
 }
