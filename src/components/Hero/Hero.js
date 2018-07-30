@@ -15,6 +15,9 @@ const Hero = props => {
         <h2>
           I'm a husband, father, and converted introvert.
         </h2>
+        <h2>
+          I've written a few things below.
+        </h2>
         <button onClick={scrollToContent} aria-label="scroll">
           <FaArrowDown />
         </button>
