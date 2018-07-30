@@ -65,7 +65,6 @@ class Layout extends React.Component {
 
     font.load(null, 10000).then(
       () => {
-        console.log(`${name} is available`);
         this.setState({ [`${name}loaded`]: true });
       },
       () => {
@@ -108,9 +107,7 @@ class Layout extends React.Component {
                   padding: 0;
                 }
                 body {
-                  font-family: ${this.state.font400loaded
-                    ? "'Open Sans', sans-serif;"
-                    : "Arial, sans-serif;"};
+                  font-family: ${this.state.font400loaded ? "'Open Sans', sans-serif;" : "Arial, sans-serif;"};
                 }
                 h1,
                 h2,

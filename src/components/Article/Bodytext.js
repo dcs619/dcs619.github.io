@@ -9,9 +9,14 @@ const Bodytext = props => {
       <div className="bodytext" dangerouslySetInnerHTML={{ __html: html }} />
 
       <style jsx>{`
+
         .bodytext {
           animation-name: bodytextEntry;
           animation-duration: ${theme.time.duration.long};
+
+          :global(h1) {
+            margin-bottom: 1em;
+          }
 
           :global(h2),
           :global(h3) {
