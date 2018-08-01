@@ -9,7 +9,7 @@ author: david stevens
 
 ## What would your perfect office look like?  Where are you the most productive?  Where are you the most creative? 
 
-I've been obsessed with productivity since college.  I'd like to think it was a learned discpline, that I _had to_ be productive to balance a full school term and part-time job.  I _had to_ be productive at my first job, then at my second job, to prove I could apply what I learned.  I _had to_ make other teams productive at my third job to justify my position.
+I've been obsessed with productivity since college.  I'd like to think it was a learned discipline, that I _had to_ be productive to balance a full school term and part-time job.  I _had to_ be productive at my first job, then at my second job, to prove I could apply what I learned.  I _had to_ make other teams productive at my third job to justify my position.
 
 # The lie.
 
