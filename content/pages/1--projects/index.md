@@ -31,20 +31,20 @@ Holtzman is a ReactJS cross-platform app using GraphQL to interface with Mongo, 
 
 CyberSource is an online payment gateway used by Rock. V1 was released in 2014 and used to process over $1M in event registrations.  V2 was rewritten in 2016 as a fully-PCI compliant client-side plugin and actively being used to process non-profit donations and event registration payments.
 
-Tristate Maps
+**Tristate Maps**
 
 Tristate Maps is a MeteorJS app to geocode, render, and segment over 150k addresses on MapBox tiles using MongoDB.  Sunset in 2014.
 
 ## Corporate Source
 
-Microsoft Dynamics
+**Microsoft Dynamics**
 
 Dynamics is a web-based CRM for sales, marketing leads, and contracts.  I led custom development and conversion of over 30k records from Salesforce, Excel, and a legacy marketing and contact system.
 
-EMRS
+**EMRS**
 
 EMRS is a Winforms app to automatically monitor, report, and recover health statuses of local machines, servers, or clusters.  EMRS was written in C# using .NET 2.0 with Web Services and MSSQL.
 
-SSTP
+**SSTP**
 
 SSTP was a sales tax project website with secure logins, Flash-based chatroom, mailing lists, and profiles. Sunset in 2009.
