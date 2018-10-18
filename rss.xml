@@ -1,4 +1,141 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[https://davidstevens.us]]></title><description><![CDATA[converted introvert. the best is yet to come.]]></description><link>https://davidstevens.us</link><generator>RSS for Node</generator><lastBuildDate>Wed, 01 Aug 2018 16:44:48 GMT</lastBuildDate><item><title><![CDATA[Remote Life - The Setup]]></title><description><![CDATA[What would your perfect office look like?  Where are you the most productive?  Where are you the most creative? I’ve been obsessed with…]]></description><link>https://davidstevens.us/remote-setup/</link><guid isPermaLink="false">https://davidstevens.us/remote-setup/</guid><content:encoded>&lt;p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[https://davidstevens.us]]></title><description><![CDATA[converted introvert. the best is yet to come.]]></description><link>https://davidstevens.us</link><generator>RSS for Node</generator><lastBuildDate>Thu, 18 Oct 2018 03:14:11 GMT</lastBuildDate><item><title><![CDATA[Building For Production With Gatsby, Part 1]]></title><description><![CDATA[Recently my collective thought leaders vary from  soft skills ,  startup culture ,  remote work , to  developer rage , but I instantly…]]></description><link>https://davidstevens.us/building-for-production-with-gatsby/</link><guid isPermaLink="false">https://davidstevens.us/building-for-production-with-gatsby/</guid><content:encoded>&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/pankaj-patel-js-302e29f1a49b1b35d73353978c745492-f107e.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 62.50451752800868%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAECBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAHhJI0hP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEAAQUCX//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABYQAAMAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAQABPyGkOP8A/9oADAMBAAIAAwAAABCX/wD/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQMBAT8QrH//xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQIBAT8QjX//xAAZEAADAQEBAAAAAAAAAAAAAAAAAREhYXH/2gAIAQEAAT8QSETU6Xm+isGgsZT/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/pankaj-patel-js-302e29f1a49b1b35d73353978c745492-78f2b.jpg&quot;
+        srcset=&quot;/static/pankaj-patel-js-302e29f1a49b1b35d73353978c745492-dce19.jpg 200w,
+/static/pankaj-patel-js-302e29f1a49b1b35d73353978c745492-c1413.jpg 400w,
+/static/pankaj-patel-js-302e29f1a49b1b35d73353978c745492-78f2b.jpg 800w,
+/static/pankaj-patel-js-302e29f1a49b1b35d73353978c745492-ab4c4.jpg 1200w,
+/static/pankaj-patel-js-302e29f1a49b1b35d73353978c745492-bc99b.jpg 1600w,
+/static/pankaj-patel-js-302e29f1a49b1b35d73353978c745492-34a60.jpg 2400w,
+/static/pankaj-patel-js-302e29f1a49b1b35d73353978c745492-f107e.jpg 5534w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Recently my collective thought leaders vary from &lt;a href=&quot;https://twitter.com/sehurlburt/status/1042557375171899392&quot;&gt;soft skills&lt;/a&gt;, &lt;a href=&quot;https://mobile.twitter.com/levelsio/status/956176482958639105&quot;&gt;startup culture&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/feministy/status/986427827481464833&quot;&gt;remote work&lt;/a&gt;, to &lt;a href=&quot;https://twitter.com/Nick_Craver/status/1046841014433005570&quot;&gt;developer rage&lt;/a&gt;, but I instantly reacted when I saw this tweet:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;🌶 Hot take: Using the to-do app as the Hello World was a big step back for teaching devs.&lt;br&gt;&lt;br&gt;When the Twitter app was the Hello World, it taught everyone auth, associations, async requests, 3rd party APIs, offline, etc.&lt;/p&gt;&amp;mdash; Jonnie Hallman (@destroytoday) &lt;a href=&quot;https://twitter.com/destroytoday/status/1024321627612426241?ref_src=twsrc%5Etfw&quot;&gt;July 31, 2018&lt;/a&gt;&lt;/blockquote&gt;&lt;br /&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;YES. ABSOLUTELY YES.&lt;/p&gt;
+&lt;p&gt;Why does it feel like that sixth new app tutorial isn’t actually teaching me anything?  Where do I squeeze in professional development with earning my keep, pursuing healthy hobbies, and being present with family?&lt;/p&gt;
+&lt;p&gt;Enter Gatsby.&lt;/p&gt;
+&lt;h1&gt;What is Gatsby?&lt;/h1&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/dean-pugh-office-fd7664fbf95c0355cda4fe262aa4c80b-0c070.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUDBAb/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAABtC+IdGJgv//EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMREhP/2gAIAQEAAQUC0CLd24MsZnCap9nn/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGhAAAwADAQAAAAAAAAAAAAAAAAERAhAxUf/aAAgBAQAGPwKr0WM1GypnT//EABwQAAICAgMAAAAAAAAAAAAAAAABESExQVGh8P/aAAgBAQABPyFK1LgWzWxkW+jHXM4It2Ue6R//2gAMAwEAAgADAAAAEODv/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAEDAQE/EEdsv//EABcRAQEBAQAAAAAAAAAAAAAAAAEAEVH/2gAIAQIBAT8QECx7f//EAB0QAAICAwADAAAAAAAAAAAAAAERACExQYHB0fD/2gAIAQEAAT8QwBCsLeV1Q5olowhVwLae2jnTiARfBBHJUCh5n39U/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/dean-pugh-office-fd7664fbf95c0355cda4fe262aa4c80b-78f2b.jpg&quot;
+        srcset=&quot;/static/dean-pugh-office-fd7664fbf95c0355cda4fe262aa4c80b-dce19.jpg 200w,
+/static/dean-pugh-office-fd7664fbf95c0355cda4fe262aa4c80b-c1413.jpg 400w,
+/static/dean-pugh-office-fd7664fbf95c0355cda4fe262aa4c80b-78f2b.jpg 800w,
+/static/dean-pugh-office-fd7664fbf95c0355cda4fe262aa4c80b-ab4c4.jpg 1200w,
+/static/dean-pugh-office-fd7664fbf95c0355cda4fe262aa4c80b-bc99b.jpg 1600w,
+/static/dean-pugh-office-fd7664fbf95c0355cda4fe262aa4c80b-34a60.jpg 2400w,
+/static/dean-pugh-office-fd7664fbf95c0355cda4fe262aa4c80b-0c070.jpg 5472w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Imagine you’re the newly hired junior associate of tech recruiting.  Your client asked for a rockstar developer but you know nothing, so you Google “web development”.   Nothing useful there except a dated Wikipedia entry.  How about “modern web development”?  &lt;/p&gt;
+&lt;p&gt;Ok, now you’re looking for someone who knows a few things: advanced CSS, a JavaScript framework (not jQuery), API interactions, performance optimization…  &lt;/p&gt;
+&lt;p&gt;What if you, the (aspiring/junior/mid/senior) developer, don’t know all those things?  &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;Gatsby&lt;/a&gt; is a modern development framework that includes all the above:&lt;/p&gt;
+&lt;p&gt;✅ Javascript (React)&lt;br&gt;
+✅ Prebuilt CSS (CSS-in-JS)&lt;br&gt;
+✅ API interactions (GraphQL)&lt;br&gt;
+✅ Blazing performance (Webpack/PWA)  &lt;/p&gt;
+&lt;h1&gt;Why Gatsby?&lt;/h1&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/campbell-boulanger-porsche-0e7ff6d71dae2ddd599e9a7631c59a31-8a0ff.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 800px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.67565381504448%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIFBv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAF2jPZoCCH/xAAaEAADAQADAAAAAAAAAAAAAAAAAQIEERQh/9oACAEBAAEFAq13BOzzsSNckQmz/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGxABAAAHAAAAAAAAAAAAAAAAAQADICEiYZH/2gAIAQEABj8CylnYVDV6f//EABoQAAMBAQEBAAAAAAAAAAAAAAABESExQeH/2gAIAQEAAT8hiJFy5Y5y24wZfTpdJquGecP/2gAMAwEAAgADAAAAEJgv/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8Qqv/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAQEAAwEBAQAAAAAAAAAAAAERACExQWGB/9oACAEBAAE/EFGxTgDrDmWvy0WE97cJlBpdUYDvXxyo0bfwxhQJ4LzP/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px transparent;&quot;
+        alt=&quot;unsplash.com&quot;
+        title=&quot;&quot;
+        src=&quot;/static/campbell-boulanger-porsche-0e7ff6d71dae2ddd599e9a7631c59a31-78f2b.jpg&quot;
+        srcset=&quot;/static/campbell-boulanger-porsche-0e7ff6d71dae2ddd599e9a7631c59a31-dce19.jpg 200w,
+/static/campbell-boulanger-porsche-0e7ff6d71dae2ddd599e9a7631c59a31-c1413.jpg 400w,
+/static/campbell-boulanger-porsche-0e7ff6d71dae2ddd599e9a7631c59a31-78f2b.jpg 800w,
+/static/campbell-boulanger-porsche-0e7ff6d71dae2ddd599e9a7631c59a31-ab4c4.jpg 1200w,
+/static/campbell-boulanger-porsche-0e7ff6d71dae2ddd599e9a7631c59a31-bc99b.jpg 1600w,
+/static/campbell-boulanger-porsche-0e7ff6d71dae2ddd599e9a7631c59a31-34a60.jpg 2400w,
+/static/campbell-boulanger-porsche-0e7ff6d71dae2ddd599e9a7631c59a31-8a0ff.jpg 3709w&quot;
+        sizes=&quot;(max-width: 800px) 100vw, 800px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;I’m not a JS junkie who only uses frameworks baked in the last 6 months.  I’ve paid dues at both the mouth of node_modules and DLL hell, so if you tell me to try something new, it better be worth it.  Why couldn’t you just learn all those topics on your own?&lt;/p&gt;
+&lt;p&gt;Here’s my pitch:&lt;/p&gt;
+&lt;p&gt;Gatsby opens with what you need to know, polishes up what you think you know, and runs everything else under the hood.&lt;/p&gt;
+&lt;p&gt;Prefer to drive at a slower pace?  &lt;a href=&quot;https://www.gatsbyjs.org/tutorial/&quot;&gt;This&lt;/a&gt; is for you.&lt;/p&gt;
+&lt;p&gt;Prefer to jump right in and go?  &lt;a href=&quot;https://www.gatsbyjs.org/starters/&quot;&gt;That&lt;/a&gt; is for you.&lt;/p&gt;
+&lt;p&gt;Prefer that I stop using car metaphors you don’t care about?  &lt;a href=&quot;https://i.giphy.com/media/7K3p2z8Hh9QOI/giphy.webp&quot;&gt;Me too&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Gatsby’s components are well-documented and easy to read, and the entire source for the project is on &lt;a href=&quot;https://github.com/gatsbyjs/gatsby&quot;&gt;Github&lt;/a&gt;.  Bravo to the team for making it so accessible.&lt;/p&gt;
+&lt;h1&gt;Fin&lt;/h1&gt;
+&lt;p&gt;If you hadn’t already guessed, this site is built with ❤️Gatsby.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Next&lt;/em&gt;: Part 2 will cover some setup issues, custom functionality, and thoughts for future improvement!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Remote Life - The Setup]]></title><description><![CDATA[What would your perfect office look like?  Where are you the most productive?  Where are you the most creative? I’ve been obsessed with…]]></description><link>https://davidstevens.us/remote-setup/</link><guid isPermaLink="false">https://davidstevens.us/remote-setup/</guid><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/static/carl-heyerdahl-office-3d4ef0c265f725a4dae827032af4b0a4-a3a7b.jpg&quot;
@@ -243,7 +380,7 @@
 &lt;p&gt;My office doesn’t have room for an &lt;a href=&quot;https://www.businessinsider.com/google-sleep-pods-2010-6&quot;&gt;EnergyPod&lt;/a&gt;, but if my brain can’t function after lunch, it’s time for a &lt;a href=&quot;https://medium.com/swlh/pro-tips-for-power-napping-like-a-king-c62db629d78&quot;&gt;caffeine nap&lt;/a&gt;.  On average, we fall asleep in &lt;a href=&quot;https://aasm.org/resources/practiceparameters/pp_msltmwt.pdf&quot;&gt;10-15 minutes&lt;/a&gt;, so I set alarms for 20 minutes later (no snoozing!) and start drinking water or coffee as soon as I wake up.&lt;/p&gt;
 &lt;h1&gt;The future.&lt;/h1&gt;
 &lt;p&gt;I’m always reading about productivity hacks, kindness, and team dynamics.  Got a tip or a book that changed your life?  Let me know on &lt;a href=&quot;https://twitter.com/messages/compose?recipient_id=218521189&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Editor’s note: From a financial standpoint, this entire office setup cost less than $1200 (musical instruments not included). Best of luck finding your own balance as you make the impossible possible.&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[I Work Remotely]]></title><description><![CDATA[Remote life is the dream. When I first heard of remote work, I was green out of college, blowing every paycheck, squeezing independence out…]]></description><link>https://davidstevens.us/remote-life/</link><guid isPermaLink="false">https://davidstevens.us/remote-life/</guid><content:encoded>&lt;p&gt;
+&lt;p&gt;&lt;em&gt;Editor’s note: From a financial standpoint, this entire office setup cost less than $1200 (musical instruments not included). Best of luck finding your own balance as you make the impossible possible.&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Why I Work Remotely]]></title><description><![CDATA[Remote life is the dream. When I first heard of remote work, I was green out of college, blowing every paycheck, squeezing independence out…]]></description><link>https://davidstevens.us/remote-life/</link><guid isPermaLink="false">https://davidstevens.us/remote-life/</guid><content:encoded>&lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
     href=&quot;/static/kevin-bhagat-work-hard-0ec3d77d3a3c432edeb6dd45bc6dc030-0c070.jpg&quot;
