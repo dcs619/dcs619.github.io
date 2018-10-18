@@ -14,7 +14,7 @@ Recently my collective thought leaders vary from [soft skills](https://twitter.c
     
 YES. ABSOLUTELY YES.
 
-Why does it feel like that sixth new app tutorial isn't actually teaching me anything?  Where do I squeeze in professional development with earning my keep, pursuing healthy hobbies, and being present with family?
+Why does it feel like new app tutorials aren't actually teaching me anything?  Where do I squeeze in professional development with earning my keep, pursuing healthy hobbies, and being present with family?
 
 Enter Gatsby.
 
@@ -32,7 +32,7 @@ What if you, the (aspiring/junior/mid/senior) developer, don't know all those th
 
 ✅ Javascript (React)  
 ✅ Prebuilt CSS (CSS-in-JS)  
-✅ API interactions (GraphQL)  
+✅ API reusability (GraphQL)  
 ✅ Blazing performance (Webpack/PWA)  
 
 
