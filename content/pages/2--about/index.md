@@ -3,7 +3,7 @@ title: About
 icon: info
 ---
 
-I'm a professional developer, trainer, listener, and problem solver.  I work remotely in [Greenville, SC](http://lifeingreenville.com) as a senior developer and consultant for [Kingdom First](https://kingdomfirstsolutions.com).  I get excited about coffee, sushi, card games, spreadsheets, and the outdoors, but not always in that order.
+Hey there!  I'm a professional developer, trainer, listener, and problem solver.  I work remotely in [Greenville, SC](http://lifeingreenville.com) for [Kingdom First](https://kingdomfirstsolutions.com).  I currently manage internal systems development for our team as well as external projects with contractors.
 
 Want to connect, chat, or ask a question?  My [DM's](/contact) are always open.
 
