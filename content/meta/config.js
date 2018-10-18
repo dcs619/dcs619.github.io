@@ -11,7 +11,7 @@ module.exports = {
   authorTwitterAccount: "davidcstevens_",
   // info
   headerTitle: "david stevens",
-  headerSubTitle: "making the impossible possible",
+  headerSubTitle: "believing the impossible",
   // manifest.json
   manifestName: "David Stevens",
   manifestShortName: "davidstevens", // max 12 characters

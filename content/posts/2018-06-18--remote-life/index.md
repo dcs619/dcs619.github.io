@@ -1,5 +1,5 @@
 ---
-title: I Work Remotely
+title: Why I Work Remotely
 category: remote
 cover: kevin-bhagat-work-hard.jpg
 author: david stevens
