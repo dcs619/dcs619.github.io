@@ -7,7 +7,7 @@ author: david stevens
 
 ![unsplash.com](./pankaj-patel-js.jpg)
 
-Recently my collective thought leaders vary from [soft skills](https://twitter.com/sehurlburt/status/1042557375171899392), [startup culture](https://mobile.twitter.com/levelsio/status/956176482958639105), [remote work](https://twitter.com/feministy/status/986427827481464833), to [developer rage](https://twitter.com/Nick_Craver/status/1046841014433005570), but I instantly reacted when I saw this tweet:
+My collective thought leaders diverge from [soft skills](https://twitter.com/sehurlburt/status/1042557375171899392), [startup culture](https://mobile.twitter.com/levelsio/status/956176482958639105), [remote work](https://twitter.com/feministy/status/986427827481464833), to [developer rage](https://twitter.com/Nick_Craver/status/1046841014433005570), but I instantly reacted when I saw this tweet:
 
 > <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">🌶 Hot take: Using the to-do app as the Hello World was a big step back for teaching devs.<br><br>When the Twitter app was the Hello World, it taught everyone auth, associations, async requests, 3rd party APIs, offline, etc.</p>&mdash; Jonnie Hallman (@destroytoday) <a href="https://twitter.com/destroytoday/status/1024321627612426241?ref_src=twsrc%5Etfw">July 31, 2018</a></blockquote><br />
 
@@ -50,7 +50,7 @@ Prefer to drive at a slower pace?  [This](https://www.gatsbyjs.org/tutorial/) is
 
 Prefer to jump right in and go?  [That](https://www.gatsbyjs.org/starters/) is for you.
 
-Prefer that I stop using car metaphors you don't care about?  [Me too](https://i.giphy.com/media/7K3p2z8Hh9QOI/giphy.webp).
+Prefer to stop using vague car metaphors?  [Me too](https://i.giphy.com/media/7K3p2z8Hh9QOI/giphy.webp).
 
 Gatsby's components are well-documented and easy to read, and the entire source for the project is on [Github](https://github.com/gatsbyjs/gatsby).  Bravo to the team for making it so accessible.
 
