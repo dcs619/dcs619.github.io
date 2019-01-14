@@ -7,7 +7,7 @@ author: david stevens
 
 ![unsplash.com](./pankaj-patel-js.jpg)
 
-My collective thought leaders diverge from [soft skills](https://twitter.com/sehurlburt/status/1042557375171899392), [startup culture](https://mobile.twitter.com/levelsio/status/956176482958639105), [remote work](https://twitter.com/feministy/status/986427827481464833), to [developer rage](https://twitter.com/Nick_Craver/status/1046841014433005570), but I instantly reacted when I saw this tweet:
+My Twitter feed typically spans from [soft skills](https://twitter.com/sehurlburt/status/1042557375171899392), [startup culture](https://mobile.twitter.com/levelsio/status/956176482958639105), [remote work](https://twitter.com/feministy/status/986427827481464833), to [developer fury](https://twitter.com/Nick_Craver/status/1046841014433005570), but I instantly reacted when I saw this tweet:
 
 > <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">🌶 Hot take: Using the to-do app as the Hello World was a big step back for teaching devs.<br><br>When the Twitter app was the Hello World, it taught everyone auth, associations, async requests, 3rd party APIs, offline, etc.</p>&mdash; Jonnie Hallman (@destroytoday) <a href="https://twitter.com/destroytoday/status/1024321627612426241?ref_src=twsrc%5Etfw">July 31, 2018</a></blockquote><br />
 
@@ -44,7 +44,7 @@ I'm not a JS junkie who only uses frameworks baked in the last 6 months.  I've p
 
 Here's my pitch:
 
-Gatsby opens with what you need to know, polishes up what you think you know, and runs everything else under the hood.
+Gatsby starts with what you need to know, polishes what you think you know, and puts everything else under the hood.
 
 Prefer to drive at a slower pace?  [This](https://www.gatsbyjs.org/tutorial/) is for you.
 
@@ -58,4 +58,4 @@ Gatsby's components are well-documented and easy to read, and the entire source 
 If you hadn't already guessed, this site is built with ❤️Gatsby.
 
 
-_Next_: Part 2 will cover some setup issues, custom functionality, and thoughts for future improvement!
+_Next_: I'll share some setup issues, added functionality, and thoughts for future improvement!

@@ -15,4 +15,4 @@ Before that, I worked as a software contractor for law enforcement, as a network
 
 ### My Biography
 
-David is a web developer with over a decade's worth of mistakes and problem solving to show for it.  He loves finding ways to be more efficient, doing things with intensity, and sleeping outdoors.  You can find him on Twitter and his website, [davidstevens.us](https://davidstevens.us), except when he's spending time with his wife and daughter.
+David is a senior developer with over a decade's worth of mistakes and problem solving to show for it.  He loves finding ways to be more efficient, doing things with intensity, and sleeping outdoors.  You can find him on Twitter and his website, [davidstevens.us](https://davidstevens.us), except when he's spending time with his wife and daughter.
