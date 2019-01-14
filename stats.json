@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---remote-setup": [
-      "path---remote-setup-4b6f556b41675ae65f6c.js",
-      "path---remote-setup-4b6f556b41675ae65f6c.js.map"
+      "path---remote-setup-b7c5afd5404359ff1980.js",
+      "path---remote-setup-b7c5afd5404359ff1980.js.map"
     ],
     "path---category-remote": [
       "path---category-remote-6b1a84d72f5285c8131e.js",
@@ -13,8 +13,8 @@
       "component---src-pages-index-js-7b2dd77ed4b0da57bd7b.js.map"
     ],
     "path---building-for-production-with-gatsby": [
-      "path---building-for-production-with-gatsby-df74788f0f7ad8e030c1.js",
-      "path---building-for-production-with-gatsby-df74788f0f7ad8e030c1.js.map"
+      "path---building-for-production-with-gatsby-85a2f31dbfd01d04e31d.js",
+      "path---building-for-production-with-gatsby-85a2f31dbfd01d04e31d.js.map"
     ],
     "path---": [
       "path----561cef42800c8826c536.js",
@@ -37,24 +37,24 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "path---category-development": [
-      "path---category-development-f634699a97296ce718e5.js",
-      "path---category-development-f634699a97296ce718e5.js.map"
+      "path---category-development-4935aee4d62f35d28532.js",
+      "path---category-development-4935aee4d62f35d28532.js.map"
     ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-3a9a6fe8a9a076d015ca.js",
       "component---src-layouts-index-js-3a9a6fe8a9a076d015ca.js.map"
     ],
     "path---category": [
-      "path---category-ced1fd7cbaac62b0133a.js",
-      "path---category-ced1fd7cbaac62b0133a.js.map"
+      "path---category-699ad23967afb69e6dbe.js",
+      "path---category-699ad23967afb69e6dbe.js.map"
     ],
     "component---src-pages-category-js": [
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js",
       "component---src-pages-category-js-bbb34571e9395b2ce79b.js.map"
     ],
     "path---index": [
-      "path---index-ffb558fdec75a76dcad9.js",
-      "path---index-ffb558fdec75a76dcad9.js.map"
+      "path---index-94eb6101a3e2ec2bc3cf.js",
+      "path---index-94eb6101a3e2ec2bc3cf.js.map"
     ],
     "component---src-pages-search-js": [
       "component---src-pages-search-js-adc49fae302ed7b1632f.js",
@@ -91,8 +91,8 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---remote-life": [
-      "path---remote-life-34832ffe34ac6b8402b1.js",
-      "path---remote-life-34832ffe34ac6b8402b1.js.map"
+      "path---remote-life-462072d3f326c0482f32.js",
+      "path---remote-life-462072d3f326c0482f32.js.map"
     ],
     "app": [
       "app-54601dab8c1898482b79.js",
@@ -113,8 +113,8 @@
       "path---search-73544dbe18c9cb68d283.js.map"
     ],
     "path---about": [
-      "path---about-d293852ec1848ab5cc0a.js",
-      "path---about-d293852ec1848ab5cc0a.js.map"
+      "path---about-9bf97916232d1a20999c.js",
+      "path---about-9bf97916232d1a20999c.js.map"
     ]
   }
 }
