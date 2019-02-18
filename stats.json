@@ -65,9 +65,9 @@
       "component---src-pages-404-js-cf325d2e9bf981eec2f6.js.map"
     ],
     "commons": [
-      "commons-1f026efaeaf71d4345ce.js",
+      "commons-34ee4d10e3143d9c9255.js",
       "build-js-styles.css",
-      "commons-1f026efaeaf71d4345ce.js.map",
+      "commons-34ee4d10e3143d9c9255.js.map",
       "build-js-styles.css.map"
     ],
     "path---success": [
@@ -113,8 +113,8 @@
       "path---search-73544dbe18c9cb68d283.js.map"
     ],
     "path---about": [
-      "path---about-9bf97916232d1a20999c.js",
-      "path---about-9bf97916232d1a20999c.js.map"
+      "path---about-a6b332483131a3fd2826.js",
+      "path---about-a6b332483131a3fd2826.js.map"
     ]
   }
 }
