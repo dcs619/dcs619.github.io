@@ -61,7 +61,7 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "devhost": "gatsby develop --host 192.168.0.112",
-    "deploy": "gatsby build && gh-pages -b master -d public -m 'automated deploy'",
+    "deploy": "gatsby build && gh-pages -b master -d public -m \"automated deploy\"",
     "format": "prettier --write 'src/**/*.js'",
     "lint-errors": "eslint src/**/*.{js,jsx} --quiet",
     "lint": "eslint src/**/*.{js,jsx}",

@@ -3,7 +3,7 @@ title: About
 icon: info
 ---
 
-Hey, I'm David! I'm an engineering lead located in [Greenville, SC](http://lifeingreenville.com) with 20+ years of full-stack expertise in enterprise and open source software. I've been fortunate to work in product, agency and management roles where I learned the value of collaboration and efficiency to drive organization success.
+Hey, I'm David! I'm an engineering lead located in [Greenville, SC](http://lifeingreenville.com) with 20+ years of full-stack expertise in enterprise and open source software. I've been fortunate to work in product, agency and management roles where I learned the value of collaboration and efficiency to drive success.
 
 Currently I lead two engineering teams to create, optimize, and deliver .NET software for mid-size to Fortune 500 clients. My day-to-day ranges from personal mentoring, code reviews and client onboarding, to architecting projects and planning sprints. 
 
