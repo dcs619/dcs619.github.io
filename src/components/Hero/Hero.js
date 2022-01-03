@@ -13,7 +13,7 @@ const Hero = props => {
           Hey there! I'm David.  
         </h1>
         <h2>
-          I'm a husband, father, and converted introvert.
+          I'm an engineering lead in Greenville, SC.
         </h2>
         <h2>
           I've written a few things below.
