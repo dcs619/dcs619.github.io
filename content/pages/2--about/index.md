@@ -7,7 +7,7 @@ Hey, I'm David! I'm an engineering lead located in [Greenville, SC](http://lifei
 
 Currently I lead two engineering teams to create, optimize, and deliver .NET software for mid-size to Fortune 500 clients. My day-to-day ranges from personal mentoring, code reviews and client onboarding, to architecting projects and planning sprints. 
 
-Want to [connect](https://www.linkedin.com/in/davidclarkestevens/), [chat](https://twitter.com/messages/compose?recipient_id=218521189), or [ask a question](hello@davidstevens.us)?  I'm always up for a conversation.
+Want to [connect](https://www.linkedin.com/in/davidclarkestevens/), [chat](https://twitter.com/messages/compose?recipient_id=218521189), or [ask a question](mailto:hello@davidstevens.us)?  I'm always up for a conversation.
 
 ### My Background
 
@@ -17,7 +17,7 @@ As an individual contributor, I led development and ETL processes of an open-sou
 
 Prior to that, I worked as a software contractor for law enforcement, as a network analyst for a law firm, and a few other roles where I tried to take something apart, break it, and get it working again.
 
-### My Biography
+### My Bio
 
 <img src="../avatar.jpg" alt="avatar" width="120" align="left" /><p style="padding-left:125px;"> David is an engineering lead with two decades worth of mistakes, problem solving, and persistence to show for it.  He loves finding ways to be more efficient, doing things with intensity, and sleeping outdoors whenever he can.
 
