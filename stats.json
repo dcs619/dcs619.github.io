@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---remote-setup": [
-      "path---remote-setup-61f62c094a4e69baa44f.js",
-      "path---remote-setup-61f62c094a4e69baa44f.js.map"
+      "path---remote-setup-b2a355e2451961bfc07b.js",
+      "path---remote-setup-b2a355e2451961bfc07b.js.map"
     ],
     "path---category-remote": [
       "path---category-remote-6b1a84d72f5285c8131e.js",
@@ -13,8 +13,8 @@
       "component---src-pages-index-js-3399b60f2b4db04ff271.js.map"
     ],
     "path---building-for-production-with-gatsby": [
-      "path---building-for-production-with-gatsby-deed934fb3e1be745dc2.js",
-      "path---building-for-production-with-gatsby-deed934fb3e1be745dc2.js.map"
+      "path---building-for-production-with-gatsby-c8c1758e9d98eed10dca.js",
+      "path---building-for-production-with-gatsby-c8c1758e9d98eed10dca.js.map"
     ],
     "path---": [
       "path----393c4273adf61af122db.js",
@@ -91,8 +91,8 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---remote-life": [
-      "path---remote-life-52d4a1875426a52a5e3d.js",
-      "path---remote-life-52d4a1875426a52a5e3d.js.map"
+      "path---remote-life-3c03daac2923b846fc43.js",
+      "path---remote-life-3c03daac2923b846fc43.js.map"
     ],
     "app": [
       "app-7aacf4d354c3276ec447.js",
@@ -113,8 +113,8 @@
       "path---search-73544dbe18c9cb68d283.js.map"
     ],
     "path---about": [
-      "path---about-001dcde797d2ef2a05df.js",
-      "path---about-001dcde797d2ef2a05df.js.map"
+      "path---about-49e0cdff2d26dcc7fa5b.js",
+      "path---about-49e0cdff2d26dcc7fa5b.js.map"
     ]
   }
 }

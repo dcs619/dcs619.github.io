@@ -1,2 +1,0 @@
-webpackJsonp([0x603dcf759edc],{704:function(t,e){t.exports={data:{allMarkdownRemark:{totalCount:1,edges:[{node:{fields:{slug:"/building-for-production-with-gatsby/"},excerpt:"Recently my collective thought leaders vary from  soft skills ,  startup culture ,  remote work , to  developer rage , but I instantly…",timeToRead:2,frontmatter:{title:"Building For Production With Gatsby, Part 1",category:"development"}}}]},site:{siteMetadata:{facebook:{appId:""}}}},pathContext:{category:"development"}}}});
-//# sourceMappingURL=path---category-development-0e9113f3e4f575d932b4.js.map
