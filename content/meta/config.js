@@ -1,7 +1,7 @@
 module.exports = {
   siteTitle: "https://davidstevens.us", // <title>
   shortSiteTitle: "https://davidstevens.us", // <title> ending for posts and pages
-  siteDescription: "Engineering lead in Greenville, SC trying to love others the way I'm loved. ",
+  siteDescription: "Engineering lead in Greenville, SC",
   siteUrl: "https://davidstevens.us",
   pathPrefix: "",
   siteImage: "preview.jpg",
@@ -10,8 +10,8 @@ module.exports = {
   authorName: "david stevens",
   authorTwitterAccount: "darkestevens",
   // info
-  headerTitle: "david stevens",
-  headerSubTitle: "believing the impossible",
+  headerTitle: "davidstevens.us",
+  headerSubTitle: "relentlessly improving",
   // manifest.json
   manifestName: "David Stevens",
   manifestShortName: "davidstevens", // max 12 characters
