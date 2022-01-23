@@ -10,7 +10,7 @@ module.exports = {
   authorName: "david stevens",
   authorTwitterAccount: "darkestevens",
   // info
-  headerTitle: "davidstevens.us",
+  headerTitle: "david stevens",
   headerSubTitle: "relentlessly improving",
   // manifest.json
   manifestName: "David Stevens",
