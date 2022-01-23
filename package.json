@@ -59,7 +59,7 @@
   ],
   "scripts": {
     "build": "gatsby build",
-    "develop": "gatsby develop",
+    "dev": "gatsby develop",
     "devhost": "gatsby develop --host 192.168.0.112",
     "deploy": "gatsby build && gh-pages -b master -d public -m \"automated deploy\"",
     "format": "prettier --write 'src/**/*.js'",
